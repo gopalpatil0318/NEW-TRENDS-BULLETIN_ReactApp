@@ -9,14 +9,14 @@ Explore the live version of the application at [New Trends Bulletin.](https://ne
 
 ## Features
 
-- Home Page: Displays a grid of blog posts with a responsive design.
+- **Home Page:** Displays a grid of blog posts with a responsive design.
 - Blog Post Details: View detailed content of each blog post, including title, author, date, category, and tags.
-- Pagination: Navigate through multiple pages of blog posts with ease.
-- Responsive Design: Optimized for various screen sizes and devices.
-- Loading and Error Handling: Provides visual feedback during data loading and handles scenarios where no posts are found.
-- Context Management: Utilizes React Context for global state management.
-- Navigation: Smooth client-side routing with React Router.
-- Splash Screen: Welcoming splash screen displayed upon loading the app, featuring a loading animation and introductory messages.
+Pagination: Navigate through multiple pages of blog posts with ease.
+Responsive Design: Optimized for various screen sizes and devices.
+Loading and Error Handling: Provides visual feedback during data loading and handles scenarios where no posts are found.
+Context Management: Utilizes React Context for global state management.
+Navigation: Smooth client-side routing with React Router.
+Splash Screen: Welcoming splash screen displayed upon loading the app, featuring a loading animation and introductory messages.
 
 ## Technical Stack
 

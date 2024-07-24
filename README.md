@@ -5,7 +5,7 @@
 New Trends Bulletin is a modern blog platform designed to keep users informed about the latest trends across various domains. It features a responsive design, intuitive navigation, and a seamless user experience for exploring blog content.
 
 ## Live Demo
-Explore the live version of the application at [New Trends Bulletin.](https://new-trends-bulletin.vercel.app/blog/BLOG100)
+Explore the live version of the application at [New Trends Bulletin.](https://new-trends-bulletin.vercel.app)
 
 ## Features
 
@@ -55,5 +55,5 @@ Categories and Tags: Click on categories or tags to filter posts accordingly.
 Splash Screen: Enjoy a welcoming splash screen with introductory messages as the app loads.
 
 ## Contact
-Your Name: gopalpatilrcpit@gmail.com
-GitHub: https://github.com/gopalpatil0318
+- Your Name: gopalpatilrcpit@gmail.com
+- GitHub: https://github.com/gopalpatil0318
